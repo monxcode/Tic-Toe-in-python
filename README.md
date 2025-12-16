@@ -66,9 +66,10 @@ Possible future upgrades:
 
 ## 👤 Author
 **Mohan Singh Parmar**  
-Studio: *Ethical Work*
+Ex-Studio: *Ethical Work*
+Currently: MONXCODE 
 
-📍 Kumbhalgarh, Rajasthan, India  
+📍 Udaipur/Kumbhalgarh, Rajasthan, India  
 📧 Email: parmarmohansingh26@gmail.com
 
 ---
