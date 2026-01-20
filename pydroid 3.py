@@ -92,7 +92,7 @@ for i in range(3):
         buttons[i][j] = btn
 
 # Studio name between game and bottom
-studio_label = tk.Label(root, text="Studio: Ethical Work", font=('Arial', 8), fg="gray", bg="#282c34")
+studio_label = tk.Label(root, text="Creator: MONXCODE", font=('Arial', 8), fg="gray", bg="#282c34")
 studio_label.pack(pady=(10, 10))  # Positioned between the game and the bottom
 
 # Reset button positioned at the bottom
